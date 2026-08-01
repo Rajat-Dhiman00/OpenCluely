@@ -182,7 +182,7 @@ OpenCluely is under active development. The core is stable and improvements ship
 - Export of conversation history to markdown or PDF
 - Deeper stealth, including process name randomization
 
-## Troubleshooting
+## Troubleshooting.
 
 <details>
 <summary>Setup issues</summary>
